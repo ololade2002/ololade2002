@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ololade2002
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Ololade
 - 🌱 I’m currently learning front-end web dev 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail:elejaololadee@gmail.com
