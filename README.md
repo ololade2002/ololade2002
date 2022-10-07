@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ololade
-- 🌱 I’m currently learning front-end web dev 
+- 🌱 I'm a Reactjs developer.I love making interactive webpages.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail:elejaololadee@gmail.com
 
