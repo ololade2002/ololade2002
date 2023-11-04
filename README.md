@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ololade
 - 🌱 I'm a Reactjs developer.I love making interactive webpages.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate and contribute on different projects
 - 📫 How to reach me gmail:elejaololadee@gmail.com
 
 <!---
